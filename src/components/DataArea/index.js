@@ -6,7 +6,7 @@ import "./DataArea.css";
 import DataAreaContext from "../../utils/DataAreaContext"
 
 
-//use state here
+//Using State here
 
 const DataArea = () => {
       const [developerState, setDeveloperState] = useState({

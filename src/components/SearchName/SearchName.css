@@ -1,7 +1,12 @@
 .searchbox button{
     border: 2px solid purple;
+    font-size: medium;
 }
 .searchbox button:hover {
     background-color: purple;
     color:white;
+}
+
+.form-control {
+    font-size: large;
 }

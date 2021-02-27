@@ -1,21 +1,6 @@
-.name-cell{
+.name-cell, .image-cell, .phone-cell, .email-cell, .DOB-cell{
     text-transform: capitalize;
     background-color:rgb(246, 237, 240);
-}
-.image-cell{
-    text-transform: capitalize;
-    background-color:rgb(246, 237, 240);
-}
-
-.phone-cell{
-    text-transform: capitalize;
-    background-color:rgb(246, 237, 240);
-}
-.email-cell{
-    text-transform: capitalize;
-    background-color:rgb(246, 237, 240);
-}
-.DOB-cell{
-    text-transform: capitalize;
-    background-color:rgb(246, 237, 240);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
 }
