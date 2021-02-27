@@ -1,5 +1,8 @@
 import axios from "axios";
 
+
+// pulls random people for directory
+
 export default{ 
     getUsers:function(){    
 
