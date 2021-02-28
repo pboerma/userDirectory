@@ -24,6 +24,10 @@ This will run the functional application on LocalHost:3000
 * Axios
 * API (Random User name generator : https://randomuser.me/api/?results=200&nat=us )
 
+## Deployment
+
+Repo: https://pboerma.github.io/userDirectory/
+
 ## Author
 
 Pieter Boerma - UoT coding bootcamp student
